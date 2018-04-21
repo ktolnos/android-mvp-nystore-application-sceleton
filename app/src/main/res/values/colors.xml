@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#455a64</color>
+    <color name="colorPrimaryDark">#1c313a</color>
+    <color name="colorAccent">#00bfa5</color>
+    <color name="background">#e6e6e6</color>
+    <color name="icon_tint">#ffffff</color>
+    <color name="text_grey">#9b9b9b</color>
+    <color name="icon_light">#eeeeee</color>
+    <color name="actionbar_icon_color">#8B929A</color>
+    <color name="color_gray">#8B929A</color>
+    <color name="color_white">#FFF</color>
+
+    <color name="color_dark_elevated">#424242</color>
+
+    <color name="text_gray">#8B929A</color>
+    <color name="text_inverse">#eeeeee</color>
+
+    <color name="error_color">#C94464</color>
+    <color name="warning_color">#E56426</color>
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/MaterialDrawerTheme.ActionBar">">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+
+        <item name="material_drawer_selected_text">@color/colorAccent</item>
+        <item name="material_drawer_selected">@color/color_dark_elevated</item>
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.ActionBar" />
+
+    <style name="TextHeader" parent="TextAppearance.AppCompat.Headline" />
+
+    <style name="TextTitle" parent="TextAppearance.AppCompat.Title" />
+
+    <style name="TextRegular" parent="TextAppearance.AppCompat.Body1" />
+
+    <style name="TextBold" parent="TextAppearance.AppCompat.Body2" />
+
+    <style name="TextSmaller" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextSmallerGray" parent="TextSmaller">
+        <item name="android:textColor">@color/text_gray</item>
+    </style>
+
+    <style name="TextRegularInverse" parent="TextRegular">
+        <item name="android:textColor">@color/text_inverse</item>
+    </style>
+
+    <style name="TextAccent" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextInputTextAppearance" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+
+
+</resources>

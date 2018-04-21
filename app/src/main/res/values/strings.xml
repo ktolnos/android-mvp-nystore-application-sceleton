@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SkeletonApplication</string>
+    <string name="activity_main_title">Main Activity</string>
+    <string name="activity_login_title">Log In</string>
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="re_password">Repeat password</string>
+    <string name="enter_in_account">Enter in account</string>
+
+    <string name="login">Log in</string>
+    <string name="logout">Log out</string>
+    <string name="registration">Register</string>
+
+    <string name="error_wrong_password">Wrong email or password</string>
+    <string name="request_timeout">Request timeout</string>
+    <string name="error_token_expired">Your session has expired</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="wrong_format">Wrong format</string>
+
+    <string name="login_protected_fragment">Login protected fragment</string>
+    <string name="template_login_protected_fragment">Template login protected fragment</string>
+    <string name="recycler_view_fragment">Fragment with RecyclerView</string>
+    <string name="recyclerview_fragment_title">Example RV fragment</string>
+    <string name="default_fragment">Default fragment</string>
+
+    <string name="template_fragment">Template fragment</string>
+    <string name="template_activity">Template activity</string>
+    <string name="protected_activity">Protected activity</string>
+    <string name="open_template_activity">Open template activity</string>
+    <string name="open_login_protected_activity">Open login protected activity</string>
+
+    <string name="you_are_logged_as">You are logged as %s.</string>
+
+</resources>

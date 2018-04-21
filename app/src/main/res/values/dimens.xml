@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_width">600dp</dimen>
+    <dimen name="card_margin">10dp</dimen>
+    <dimen name="card_top_bottom_margin_halved">5dp</dimen>
+    <dimen name="card_padding">10dp</dimen>
+    <dimen name="between_views">10dp</dimen>
+    <dimen name="text_input_width">250dp</dimen>
+    <dimen name="text_input_margin">10dp</dimen>
+    <dimen name="text_margin_end">10dp</dimen>
+</resources>
